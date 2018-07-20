@@ -52,7 +52,7 @@
     "lodash": "^4.17.5",
     "prop-types": "^15.5.10",
     "react-fast-compare": "^2.0.0",
-    "victory-chart": "^27.1.0",
+    "victory-chart": "git://github.com/xkawi/victory-chart.git#80253a84ba601eedee9e0e02206354ce0d68d64a",
     "victory-core": "^24.0.1",
     "victory-pie": "^16.0.1"
   }
